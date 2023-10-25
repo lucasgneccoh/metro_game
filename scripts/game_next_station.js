@@ -6,7 +6,7 @@ var correctAnswer = null;
 
 const owner = "lucasgneccoh";
 const repo = "paris_metro_graph";
-const path = "cards_line_number.txt";
+const path = "cards_next_station_metro_only.txt";
 var maxQuestions = 100;
 var score = 0;
 var played = 0;
@@ -26,34 +26,46 @@ let data = fetch (
     .then (d => d.split("\n"))
     .then (d => Array.from(d.slice(0, maxQuestions).sort((a, b) => 0.5 - Math.random())))
     .then (d => d.join("@"))
-    .then (d => {localStorage.setItem("lineNumberData", d)});
+    .then (d => {localStorage.setItem("nextStationData", d)});
 
 
-const compareArrays = (a, b) => {
-    return a.toString() === b.toString();
-};
+
+
+function onlyUnique(value, index, array) {
+    return array.indexOf(value) === index;
+    }
+
+// Fill the datalist so that when typing, we see the possible stations
+function init(){
+    const datalist = document.getElementById("list-stations");
+    var all_stations = localStorage.getItem("nextStationData")
+                        .split("@").map(x => x.split(";")[1])
+                        .sort().filter(onlyUnique).forEach(
+                            function(item){
+                                var option = document.createElement('option');
+                                option.value = item;
+                                datalist.appendChild(option);
+                            }
+                        );
+    // Sort and take unique values
+
+}
 
 function compareAnswer(answer, correct){
-    // Turn them both in arrays using their delimiters
-    // Answer must be delimited by commas
-    return compareArrays(
-        answer.trim().split(",").map(x => x.trim()).sort(), 
-        correct.trim().split("-").map(x => x.trim()).sort()
-        )
+    // Leave this here in case there is a more sophisticated way of comparing
+    return answer.toLowerCase() === correct.toLowerCase()
 }
 
 
 function consumeQuestion(){
-    var aux = localStorage.getItem("lineNumberData").split("@");
+    var aux = localStorage.getItem("nextStationData").split("@");
     let qa = aux.pop();
     question.innerText = qa.split(";")[0];
     correctAnswer = qa.split(";")[1];
     // submitted.innerText = `Correct answer is ${correctAnswer}`
-    localStorage.setItem("lineNumberData", aux.join("@"))
+    localStorage.setItem("nextStationData", aux.join("@"))
 };
 
-// Call it once at load up
-consumeQuestion();
 
 inputBox.addEventListener('keydown', (event) => {
     if (event.key === 'Enter') {
@@ -79,3 +91,10 @@ inputBox.addEventListener('keydown', (event) => {
         consumeQuestion()
     }
 });
+
+
+
+// INIT
+init();
+// Call it once at load up
+consumeQuestion();

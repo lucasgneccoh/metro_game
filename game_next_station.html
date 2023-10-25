@@ -14,18 +14,21 @@
             <div id="game" class="justify-center flex-column">
                 <h2 id="question">Question text here</h1>
                 <div id="answer" class="answer-container flex-center flex-column">
-                    <p class="answer-submitted-header"> Type the line number. If many, separate them by comma</p>
+                    <p class="answer-submitted-header"> Type the name of the next station</p>
                     <label id="answer-submitted" class="answer-submitted"> </label>
 
 
                     <label id="answer-info" class="answer-info"> Let's go! </label>
                     
-                    <input class="answer-input" type="text" id="answer-input-box" name="answer-input-box" placeholder="Write your answer ..."> </input>
+                    <input class="answer-input" type="text" id="answer-input-box" name="answer-input-box" placeholder="Write your answer ..." list="list-stations"> </input>
+                    <datalist id="list-stations">
+                        <option value="dummy">
+                    </datalist>
                 </div>
                 
             </div>
         </div>
 
-        <script src="./scripts/game_line_number.js" defer></script>
+        <script src="./scripts/game_next_station.js" defer></script>
     </body>
 </html>
