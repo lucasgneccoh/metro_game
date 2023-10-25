@@ -1,0 +1,589 @@
+Champs Elysees - Clemenceau;13
+Eglise d'Auteuil;10
+Cergy - Prefecture;A
+Creteil - Pointe du Lac;8
+Villiers;3
+Maubert - Mutualite;10
+Lardy;C
+Nanterre - Ville;A
+Nanterre - Prefecture;A
+Trocadero;6
+Vitry sur Seine;C
+Michel Bizot;8
+Les Gresillons;C
+Gare d'Austerlitz;C
+Sevres - Babylone;10
+Saint-Sulpice;4
+Franklin-D. Roosevelt;1
+Champs Elysees - Clemenceau;1
+Iena;9
+Saint-Denis - Porte de Paris;13
+Rosa Parks;E
+Javel;C
+Invalides;C
+Chaussee d'Antin - La Fayette;7
+Robinson;B
+Montparnasse - Bienvenue;12
+Torcy;A
+Convention;12
+Chelles - Gourmay;E
+Eglise de Pantin;5
+Stalingrad;5
+Chateau Rouge;4
+Richelieu - Drouot;9
+Arcueil-Cachan;B
+Aubervilliers - Pantin Quatre Chemins;7
+Antony;B
+La Motte-Picquet - Grenelle;6
+Pyramides;14
+Lozere;B
+Sevres - Lecourbe;6
+Malakoff - Plateau de Vanves;13
+Porchefontaine;C
+Denfert Rochereau;6
+Vauboyen;C
+Grands Boulevards;9
+Versailles Chateau - Rive Gauche;C
+Saint-Ouen l'Aumone;C
+Poissonniere;7
+Palais Royal - Musee du Louvre;7
+Saint-Ouen;14
+Pont du Garigliano;C
+Jaures;2
+Censier - Daubenton;7
+Mairie de Montreuil;9
+Egly;C
+Garibaldi;13
+Courcelles;2
+Villejuif - Paul Vaillant-Couturier;7
+Gare du Nord;5
+Mairie de Clichy;13
+Glaciere;6
+Athis Mons;C
+Sully - Morland;7
+Issy - Val de Seine;C
+Chatelet;14
+Rue Saint-Maur;3
+Edgar Quinet;6
+Denfert Rochereau;B
+Auber;A
+Juvisy;C
+Viroflay - Rive Gauche;C
+Fort d'Aubervilliers;7
+Stalingrad;2
+Avenue Henri Martin;C
+Trocadero;9
+Strasbourg - Saint-Denis;9
+Miromesnil;9
+Gare d'Austerlitz;5
+Palais Royal - Musee du Louvre;1
+Kleber;6
+Laumiere;5
+Villeparisis - Mitry-le-Neuf;B
+Pere Lachaise;2
+La Norville;C
+Avenue Emile Zola;10
+Avron;2
+Rungis - La Fraternelle;C
+La Motte-Picquet - Grenelle;10
+Lamarck - Caulaincourt;12
+Louvre - Rivoli;1
+Louis Blanc;7
+Varenne;13
+Ivry sur Seine;C
+Saint-Francois-Xavier;13
+Joinville-le-Pont;A
+Bercy;6
+Solferino;12
+Saint-Lazare;3
+Villejuif - Leo Lagrange;7
+Champ de Mars - Tour Eiffel;C
+Mairie d'Aubervilliers;12
+Place de Clichy;2
+Saint-Michel;4
+Saint-Ouen l'Aumone - Liesse;C
+Vert-Galant;B
+Les Gobelins;7
+Bobigny - Pablo Picasso;5
+Noisy-le-Grand - Mont d'Est;A
+Acheres - Ville;A
+Filles du Calvaire;8
+Bobigny - Pantin - Raymond Queneau;5
+Chateau d'Eau;4
+Rueil-Malmaison;A
+Le Bourget;B
+Cadet;7
+Cite;4
+Saint-Gratien;C
+Saint-Jacques;6
+Cambronne;6
+Pernety;13
+Picpus;6
+Nation;9
+Roissy en Brie;E
+Riquet;7
+Bastille;1
+Chatelet;7
+Odeon;4
+Trinite - d'Estienne d'Orves;12
+Acheres - Grand Cormier;A
+Crimee;7
+Le Vesinet - Centre;A
+Parc des Expositions;B
+Charles Michels;10
+Epinay sur Orge;C
+Chardon - Lagache;10
+Quai de la Gare;6
+Porte de Saint-Cloud;9
+Sermaise;C
+Bussy-Saint-Georges;A
+Maisons-Alfort - Stade;8
+Telegraphe;11
+Saint-Fargeau;3b
+Vincennes;A
+Magenta;E
+Boulainvilliers;C
+Poissy;A
+Hotel de Ville;11
+Courcelle-sur-Yvette;B
+Massy - Palaiseau;B
+Montparnasse - Bienvenue;13
+Saint-Martin d'Etampes;C
+Esplanade de La Defense;1
+Notre-Dame des Champs;12
+Quai de la Rapee;5
+Champigny;A
+Jaures;5
+Franklin-D. Roosevelt;9
+Olympiades;14
+Plaisance;13
+Sartrouville;A
+Alexandre Dumas;2
+Igny;C
+Balard;8
+Saint-Cyr;C
+Breguet - Sabin;5
+Palaiseau - Villebon;B
+Nogent-sur_Marne;A
+Quatre Septembre;3
+Tolbiac;7
+Maison Blanche;7
+Villepinte;B
+Basilique de Saint-Denis;13
+Haussman - Saint-Lazare;E
+Jourdain;11
+Madeleine;12
+Corvisart;6
+Lognes;A
+Etienne Marcel;4
+Duroc;13
+Franconville - Le Plessis Bouchard;C
+Louise Michel;3
+Richelieu - Drouot;8
+Sevran - Livry;B
+Boissiere;6
+Porte de Choisy;7
+Gare de Lyon;A
+Malakoff - Rue Etienne Dolet;13
+Opera;3
+Pre-Saint-Gervais;7b
+Le Raincy - Villemomble - Montfermeil;E
+Brochant;13
+La Croix de Berny;B
+Rue de la Pompe;9
+Pont de Rungis;C
+Europe;3
+Charles de Gaulle - Etoile;6
+Porte de la Chapelle;12
+Gretz Armainvilliers;E
+Rambuteau;11
+Emerainville - Pontault Combault;E
+Ecole Militaire;8
+Lourmel;8
+Porte de Clignancourt;4
+Saint-Denis - Universite;13
+Stalingrad;7
+Reaumur - Sebastopol;3
+Porte d'Auteuil;10
+Aeroport Charles de Gaulle 2 - TGV;B
+Concorde;1
+Mairie d'Issy;12
+Javel;10
+Mairie de Montrouge;4
+Porte de Bagnolet;3
+Victor Hugo;2
+Saint-Remy-les-Chevreuse;B
+Goncourt;11
+Colonel Fabien;2
+Le Parc de Saint-Maur;A
+La Tour Maubourg;8
+Richard Lenoir;5
+Gambetta;3b
+Invalides;13
+Noisiel;A
+La Motte-Picquet - Grenelle;8
+George V;1
+Tuileries;1
+Daumesnil;8
+Porte de Charenton;8
+Republique;8
+Guy Moquet;13
+Saint-Michel - Notre-Dame;B
+Saint-Ouen;C
+Saint-Michel - Notre-Dame;C
+Le Vesinet - Le Pecq;A
+Rue des Boulets;9
+Gare de Lyon;14
+Mouton Duvernet;4
+Nationale;6
+Duroc;10
+Odeon;10
+Conflans - Fin d'Oise;A
+Jaures;7b
+Saint-Mande - Tourelle;1
+Commerce;8
+Bastille;5
+Louis Blanc;7b
+Vaneau;10
+Dourdan la Foret;C
+Alma - Marceau;9
+Charles de Gaulle - Etoile;2
+Jasmin;9
+Mabillon;10
+Bercy;14
+Chemin d'Antony;C
+Mairie de Saint-Ouen;14
+Porte Doree;8
+Maraichers;9
+Pierrelaye;C
+Arts et Metiers;3
+Dourdan;C
+Laplace;B
+Rosny sous Bois;E
+Place des Fetes;7b
+La Hacquiniere;B
+Gabriel Peri;13
+Michel-Ange - Molitor;10
+Felix Faure;8
+Gagny;E
+Porte de Clichy;C
+Philippe Auguste;2
+Passy;6
+Porte de Versailles;12
+Noisy - Champs;A
+Exelmans;9
+Le Peletier;7
+Saint-Placide;4
+Aeroport Charles de Gaulle 1;B
+Marne-la-Vallee - Chessy;A
+Cergy - Le Haut;A
+Cernay;C
+Pere Lachaise;3
+Barbes - Rochechouart;4
+Ecole Veterinaire de Maisons-Alfort;8
+La Varenne - Chennevieres;A
+Monceau;2
+Sainte-Genevieve des Bois;C
+Voltaire;9
+Massy Verrieres;C
+Cite Universitaire;B
+Marx Dormoy;12
+Nation;1
+Bourse;3
+Chaville - Velizy;C
+Montigny Beauchamp;C
+Grande Arche de La Defense;A
+Michel-Ange - Auteuil;9
+Vaugirard;12
+Porte d'Orleans;4
+Bonne Nouvelle;9
+Saint-Georges;12
+Gravigny Balizy;C
+Porte de Clichy;14
+Simplon;4
+Notre-Dame de Lorette;12
+Pont Marie;7
+Ozoir la Ferriere;E
+La Courneuve - Aubervilliers;B
+Orly Ville;C
+Villiers sur Marne - Le Plessis Trevise;E
+Barbara;4
+Gambetta;3
+Saint-Quentin en Yvelines;C
+Pierre et Marie Curie;7
+Saint-Lazare;12
+Houilles - Carrieres-sur-Seine;A
+Temple;3
+Porte de la Villette;7
+Bolivar;7b
+Aime Cesaire;12
+Nation;A
+Sceaux;B
+Pont de Neuilly;1
+La Plaine - Stade de France;B
+Villiers;2
+Pasteur;6
+Massy - Verrieres;B
+Cour Saint-Emilion;14
+Porte des Lilas;11
+Gare du Nord;B
+Raspail;4
+Bagneux;B
+Les Sablons;1
+Pont Cardinet;14
+Dugommier;6
+Pasteur;12
+Val de Fontenay;A
+Pereire;3
+Nation;2
+Place Monge;7
+Bondy;E
+Saint-Marcel;5
+Saint-Philippe du Roule;9
+Robespierre;9
+Les Agnettes;13
+Parc de Sceaux;B
+Buttes Chaumont;7b
+Val de Fontenay;E
+Pantin;E
+Boulogne - Pont de Saint-Cloud;10
+Chateau Landon;7
+Bonne Nouvelle;8
+Chatou - Croissy;A
+Bibliotheque Francois-Mitterand;C
+Chatelet - Les Halles;A
+Avenue Foch;C
+Corentin Celton;12
+Avenue du President Kennedy;C
+Michel-Ange - Auteuil;10
+Creteil - Prefecture;8
+Place d'Italie;5
+Barbes - Rochechouart;2
+Cardinal Lemoine;10
+Sevran - Beaudottes;B
+Tournan;E
+Montparnasse - Bienvenue;4
+Bourg-la-Reine;B
+Abbesses;12
+Ermont Eaubonne;C
+Noisy le Sec;E
+Pigalle;2
+Alesia;4
+Miromesnil;13
+La Muette;9
+Falguiere;12
+Republique;3
+Marcadet - Poissonniers;12
+Jussieu;10
+Asnieres Gennevilliers - Les Courtilles;13
+Les Saules;C
+Gif-sur-Yvette;B
+Blanche;2
+Wagram;3
+Faidherbe - Chaligny;8
+Saint-Germain-en-Laye;A
+Arts et Metiers;11
+Porte de Vincennes;1
+Place des Fetes;11
+Anatole France;3
+Porte Dauphine;2
+Porte d'Ivry;7
+Billancourt;9
+Saint-Michel sur Orge;C
+Charonne;9
+Buzenval;9
+Madeleine;8
+Ledru Rollin;8
+Chamarande;C
+Longjumeau;C
+Gaite;13
+Rome;2
+Rosny - Bois Perrier;E
+Chemin Vert;8
+Bievres;C
+Les Yvris - Noisy le Grand;E
+Maison-Laffitte;A
+Malesherbes;3
+Reuilly - Diderot;1
+Danube;7b
+Gare de Lyon;1
+Assemblee Nationale;12
+Les Boullereaux - Champigny;E
+Maisons-Alfort - Les Juilliottes;8
+Saint-Maur - Creteil;A
+Ourcq;5
+Opera;8
+Argentine;1
+Pont de Sevres;9
+Corentin Cariou;7
+Campo Formio;5
+Belleville;11
+Havre - Caumartin;3
+Reuilly - Diderot;8
+Menilmontant;2
+Bel Air;6
+Breuillet;C
+Raspail;6
+Concorde;12
+Rue du Bac;12
+Mairie d'Ivry;7
+Daumesnil;6
+Petit Vaux;C
+Saint-Augustin;9
+Croix de Chavaux;9
+Denfert Rochereau;4
+Porte de Champerret;3
+Strasbourg - Saint-Denis;4
+Les Halles;4
+Chatelet - Les Halles;B
+Nation;6
+Boulogne - Jean Jaures;10
+La Chapelle;2
+Vavin;4
+Creteil - L'Echat;8
+La Courneuve - 8 Mai 1945;7
+Bry-sur-Marne;A
+Sevres - Babylone;12
+Gare de l'Est;7
+Chatelet;11
+Arpajon;C
+Savigny sur Orge;C
+Marcadet - Poissonniers;4
+Invalides;8
+Front Populaire;12
+Couronnes;2
+Les Baconnets;B
+Jussieu;7
+Republique;5
+Drancy;B
+Bir Hakeim;6
+Charles de Gaulle - Etoile;A
+Segur;10
+Creteil - Universite;8
+Rennes;12
+Anvers;2
+Bouray;C
+Grande Arche de La Defense;1
+Nogent Le Perreux;E
+Reaumur - Sebastopol;4
+Pereire Levallois;C
+Saint-Lazare;14
+Gennevilliers;C
+Saint-Paul;1
+Jacques Bonsergent;5
+Mirabeau;10
+Grands Boulevards;8
+Chevaleret;6
+Opera;7
+Versailles Chantiers;C
+Jules Joffrin;12
+Botzaris;7b
+Mairie de Saint-Ouen;13
+Le Guichet;B
+Boucicaut;8
+Chaussee d'Antin - La Fayette;9
+Belleville;2
+Ranelagh;9
+Massy - Palaiseau;C
+Place d'Italie;6
+Ablon;C
+Marolles en Hurepoix;C
+Etrechy;C
+Bures-sur-Yvette;B
+Saint-Germain des Pres;4
+Gare du Nord;4
+Pont de Levallois - Becon;3
+Liege;13
+Havre - Caumartin;9
+Porte de Vanves;13
+Saint-Sebastien - Froissart;8
+Epinay-sur-Seine;C
+Chatillon - Montrouge;13
+Pyrenees;11
+Bretigny;C
+Concorde;8
+Gentilly;B
+Neuville - Universite;A
+Chilly Mazarin;C
+Cergy - St-Christophe;A
+Le Blanc-Mesnil;B
+Madeleine;14
+Place de Clichy;13
+Porte de Saint-Ouen;13
+Etampes;C
+Charles de Gaulle - Etoile;1
+Le Kremlin Bicetre;7
+La Fourche;13
+Neuilly - Plaisance;A
+Pyramides;7
+Oberkampf;5
+Porte de Clichy;13
+Carrefour Pleyel;13
+Saint-Lazare;13
+Meudon - Val Fleury;C
+Charenton - Ecoles;8
+Sucy - Bonneuil;A
+Montgallet;8
+Gare d'Austerlitz;10
+Issy;C
+Republique;9
+Fontenay-sous-Bois;A
+Fontaine-Michalon;B
+Les Ardoines;C
+Volontaires;12
+Bastille;8
+Bagneux Lucie Aubrac;4
+Gare de l'Est;5
+Musee d'Orsay;C
+Saint-Cheron;C
+Port Royal;B
+Jouy en Josas;C
+Liberte;8
+Porte de Pantin;5
+Hotel de Ville;1
+Pontoise;C
+Chateau de Vincennes;1
+Mairie des Lilas;11
+Montparnasse - Bienvenue;6
+Strasbourg - Saint-Denis;8
+Boissy-Saint-Leger;A
+Sentier;3
+Nanterre - Universite;A
+Pont Neuf;7
+Fontenay-aux-Roses;B
+Val d'Europe;A
+Oberkampf;9
+Berault;1
+Choisy le Roi;C
+Chatelet;4
+Porte d'Italie;7
+Porte Maillot;1
+Hoche;5
+Gare de l'Est;4
+Porte de Montreuil;9
+Bibliotheque Francois-Mitterand;14
+Cluny - La Sorbonne;10
+Luxembourg;B
+Chatelet;1
+Place d'Italie;7
+Petit Jouy les Loges;C
+Gallieni;3
+Parmentier;3
+Marcel Sembat;9
+Le Chenay - Gagny;E
+Aulnay-sous-Bois;B
+Pelleport;3b
+Dupleix;6
+Breuillet Village;C
+Villejuif - Louis Aragon;7
+Pigalle;12
+Porte des Lilas;3b
+Ternes;2
+Neuilly Porte Maillot;C
+Villeneuve le Roi;C
+Saint-Ambroise;9
+Michel-Ange - Molitor;9
+Republique;11
+Mitry - Claye;B
+Orsay - Ville;B
+Pont de l'Alma;C
