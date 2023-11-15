@@ -7,7 +7,7 @@ var correctAnswer = null;
 const owner = "lucasgneccoh";
 const repo = "paris_metro_graph";
 const path = "cards_line_number.txt";
-var maxQuestions = 100;
+var maxQuestions = 500;
 var score = 0;
 var played = 0;
 
