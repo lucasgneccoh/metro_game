@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>Paris Metro - Line Number</title>
+        <link rel="stylesheet" href="../styles/index.css" />
+        <link rel="stylesheet" href="../styles/game_line_number.css" />
+        
+    </head>
+    <body>
+        <div class="container">
+            <div id="game" class="justify-center flex-column">
+                <h2 id="question" class="text-center question-header">Question text here</h2>
+                <div id="answer" class="answer-container flex-center flex-column">
+                    <p class="answer-submitted-header"> Type the name of the next station</p>
+                    <label id="answer-submitted" class="answer-submitted">(Score: 0)</label>
+
+
+                    <label id="answer-info" class="answer-info"> Let's go! </label>
+                    
+                    <input class="answer-input" type="text" id="answer-input-box" name="answer-input-box" placeholder="Write your answer ..." list="list-stations" autofocus> </input>
+                    <datalist id="list-stations">
+                        
+                    </datalist>
+                    <br>
+                    <a id="btn-submit" class="btn">Submit</a>
+                </div>
+                
+            </div>
+        </div>
+
+        <script src="./scripts/game_next_station.js" defer></script>
+    </body>
+</html>
